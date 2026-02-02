@@ -348,14 +348,5 @@ mongod
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
-## ⭐ Support
-
-If you find this useful, consider starring the repository!
-
-Happy recommending 🚀
+## Data
+Also i am uploading the data too. happy hacking with the data. Includes data from anilist, kitsu, mangadex. Pick your poison
