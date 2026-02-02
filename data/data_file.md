@@ -77,10 +77,10 @@ python scripts/build_index.py
 
 | Dataset | Entries | Primary Use | Last Updated |
 |---------|---------|-------------|--------------|
-| AniList | ~50k | Anime/Manga | Monthly |
-| Kitsu | ~30k | Anime/Manga | Monthly |
-| MangaDex | ~20k | Manga | Weekly |
-| **Total** | **~100k** | **All** | **Varies** |
+| AniList | ~150k | Anime/Manga | Monthly |
+| Kitsu | ~100k | Anime/Manga | Monthly |
+| MangaDex | ~100k | Manga | Weekly |
+| **Total** | **~350k** | **All** | **Varies** |
 
 ## 🗂️ Data Schema
 
